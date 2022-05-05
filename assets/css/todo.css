@@ -126,7 +126,6 @@ header.menu__header__profile > div{
 .container > header, 
 .container > footer {
     height: 133px;
-    border: solid 1px red;
 }
 
 .container > section.tasks{
